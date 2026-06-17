@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/deck.schema.json",
+  "title": "Pagecast",
+  "description": "Slides that are real web pages — designed by your agent, deployed in one command.",
+  "author": "Pagecast",
+  "createdAt": "2026-06-17",
+  "slides": [
+    "decks/pagecast/slides/cover.tsx",
+    "decks/pagecast/slides/problem.tsx",
+    "decks/pagecast/slides/idea.tsx",
+    "decks/pagecast/slides/charts.tsx",
+    "decks/pagecast/slides/steps.tsx",
+    "decks/pagecast/slides/share.tsx",
+    "decks/pagecast/slides/yours.tsx",
+    "decks/pagecast/slides/close.tsx"
+  ]
+}
