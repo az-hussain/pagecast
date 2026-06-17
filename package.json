@@ -3,6 +3,28 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "description": "Slides that are real web pages — design decks with your AI agent, present in the browser, and share with a link.",
+  "keywords": [
+    "slides",
+    "presentations",
+    "slide-deck",
+    "react",
+    "cloudflare-pages",
+    "pdf",
+    "local-first",
+    "ai-agents",
+    "claude"
+  ],
+  "homepage": "https://github.com/az-hussain/pagecast#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/az-hussain/pagecast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/az-hussain/pagecast/issues"
+  },
+  "author": "Azhar Hussain",
+  "license": "MIT",
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
   },

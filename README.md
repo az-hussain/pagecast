@@ -6,7 +6,8 @@
 
 Design decks with your AI agent · present in the browser · export to PDF · share with a link.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-6470ff.svg)](./LICENSE)
+[![CI](https://github.com/az-hussain/pagecast/actions/workflows/ci.yml/badge.svg)](https://github.com/az-hussain/pagecast/actions/workflows/ci.yml)
+&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-6470ff.svg)](./LICENSE)
 &nbsp;[![Node](https://img.shields.io/badge/node-%E2%89%A520.19-43853d.svg)](https://nodejs.org)
 &nbsp;[![Built for agents](https://img.shields.io/badge/built%20for-AI%20agents-111.svg)](./CLAUDE.md)
 &nbsp;[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
